@@ -1,1 +1,1 @@
-g
+from google.cloud import vision
